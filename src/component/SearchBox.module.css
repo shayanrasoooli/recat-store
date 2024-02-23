@@ -1,0 +1,32 @@
+.search{
+    margin: 0 10px 50px;
+}
+
+.search input {
+    border: 2px dashed #FE5D42;
+    padding: 10PX;
+    width: 250PX;
+    font-size: 0.9rem;
+    color: #FE5D42;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.search input:focus{
+    outline: none;
+}
+
+.search button{
+    padding: 10px;
+    font-size: 1rem;
+    background-color: #FE5D42;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+
+
+
+
